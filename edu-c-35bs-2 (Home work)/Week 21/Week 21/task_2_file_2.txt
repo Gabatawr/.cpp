@@ -1,0 +1,5 @@
+The number of characters: 79
+The number of lines: 6
+The number of vowels: 14
+The number of consonants: 44
+The number of digits: 20

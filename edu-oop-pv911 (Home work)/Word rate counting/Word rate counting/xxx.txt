@@ -1,0 +1,12 @@
+Associative
+Elements in associative containers are referenced by their key and not by their absolute position in the container.
+Ordered
+The elements in the container follow a strict order at all times. All inserted elements are given a position in this order.
+Map
+Each element associates a key to a mapped value: Keys are meant to identify the elements whose main content is the mapped value.
+Unique keys
+No two elements in the container can have equivalent keys.
+Allocator-aware
+The container uses an allocator object to dynamically handle its storage needs.
+HTML
+html

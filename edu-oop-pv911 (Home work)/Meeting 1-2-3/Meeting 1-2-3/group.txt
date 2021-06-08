@@ -1,0 +1,79 @@
+ Group size: 11
+-------------------------------------------------------
+ #01 ────────╮
+ Contact name: Aristarh
+ Home phone  : 234-4353
+ Work phone  : 349-3466
+ Mobile phone: 0666354678
+ Information : sadfhuih hiudhf
+
+ #02 ────────╮
+ Contact name: Artem
+ Home phone  : 121-1234
+ Work phone  : 432-3215
+ Mobile phone: 0664672890
+ Information : asljvni jsadfj
+
+ #03 ────────╮
+ Contact name: Artur
+ Home phone  : 543-5846
+ Work phone  : 235-5367
+ Mobile phone: 0957777733
+ Information : 44 dfgghrtbtbte
+
+ #04 ────────╮
+ Contact name: Ben
+ Home phone  : 975-7863
+ Work phone  : 730-9847
+ Mobile phone: 0668356892
+ Information : uhsabdfi dsf
+
+ #05 ────────╮
+ Contact name: Govard
+ Home phone  : 436-9865
+ Work phone  : 987-8773
+ Mobile phone: 0663786525
+ Information : bhvou asbdyibv
+
+ #06 ────────╮
+ Contact name: Hovard
+ Home phone  : 888-3466
+ Work phone  : 345-5689
+ Mobile phone: 0661194703
+ Information : asdfwvwfdverv 11
+
+ #07 ────────╮
+ Contact name: Nicolas
+ Home phone  : 863-4456
+ Work phone  : 234-8574
+ Mobile phone: 0502323423
+ Information : jkbbbz zzzz
+
+ #08 ────────╮
+ Contact name: Pavel
+ Home phone  : 664-8897
+ Work phone  : 234-5897
+ Mobile phone: 0996638690
+ Information : asdfvtv twsvbf
+
+ #09 ────────╮
+ Contact name: Robert
+ Home phone  : 775-4347
+ Work phone  : 235-5483
+ Mobile phone: 0665820456
+ Information : cvbtbsdd 44 bsdsdd
+
+ #10 ────────╮
+ Contact name: Artem
+ Home phone  : 999-0000
+ Work phone  : 333-4444
+ Mobile phone: 0666395706
+ Information : sdflkj sdf
+
+ #11 ────────╮
+ Contact name: Trambon
+ Home phone  : 843-8902
+ Work phone  : 829-9845
+ Mobile phone: 0953768345
+ Information : klisuadfiuobubd 33
+
